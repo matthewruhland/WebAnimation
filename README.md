@@ -1,2 +1,2 @@
-# WebAnimation
-Animations that mostly use css
+# Animation
+Made for simple animations
